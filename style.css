@@ -1,0 +1,42 @@
+*{
+	margin: 5px;
+	padding: 5px;
+	
+}
+
+body{
+	background-color: rgb(171, 44, 44);
+	color: white;
+}
+.glyphicon{
+	font-size: 20px;
+	color:rgb(171, 44, 44); 
+}
+
+.center{
+	width: 90%;
+	background-color: grey;
+
+}
+.azer
+{
+	background-color: grey;
+    margin: 5px;
+}
+.text{
+    text-align: center;
+	font-size: 25px;
+}
+
+h2{
+	text-align: center;
+}
+#myNavbar ul li a {
+	color:rgb(171, 44, 44);
+}
+.navbar{
+font-size: 35px;
+border: solid;
+background-color: black;
+color:rgb(171, 44, 44) ;	
+}
